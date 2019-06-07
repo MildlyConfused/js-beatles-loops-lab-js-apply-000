@@ -20,5 +20,6 @@ function iLoveTheBeatles(num){
   arr = []
   do{
     arr.push("I love the Beatles!")
-  } while()
+    i++
+  } while(num < 15)
 }
